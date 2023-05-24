@@ -60,7 +60,7 @@
 
 ---
 
-### TCP
+### #TCP
 
 - FTP (File Transfer Protocol) **{21}**  ==> we can log into the server, we can put a file or get a file off the server.
 
@@ -84,7 +84,7 @@
 
 ---
 
-### UDP
+### #UDP
 
 - DNS (Domain Name System) **{53}**
 

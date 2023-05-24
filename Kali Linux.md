@@ -18,7 +18,7 @@
 	
 	4. Some Common [[Network Commands]].
 	
-	5. How to deal with [[Files]].
+	5. How to deal with Files.
 	
 	6. [[Services]].
 	
