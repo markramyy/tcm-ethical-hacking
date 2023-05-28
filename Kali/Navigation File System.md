@@ -13,6 +13,7 @@
 |    ls -all     | Display all Files + Hidden + Long List |
 
 ---
+
 | ***Command*** |      ***Function***       |
 |:-------------:|:-------------------------:|
 |      man      |    Manuel for commands    |

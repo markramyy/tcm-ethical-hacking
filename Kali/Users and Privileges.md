@@ -18,12 +18,15 @@ Note: we can use the /tmp folder to upload malware or write a malicious file bc 
 ---
 
 - We use **chmod** (change mod) to change the privileges of a file (rwx):
+
 	1. chmod +**rwx** (r,w,x depends on need) {file name} ==> for the owner permissions.
-	2. chmod 777 {file name} ==> it makes every permission available (rwxrwxrwx). 
+	
+	2. chmod 777 {file name} ==> it makes every permission available (rwx-rwx-rwx). 
 
 ---
 
 - Every number refers to a specific permission :
+
 | ***Number*** | ***Permissions*** | ***Totals*** |
 |:------------:|:-----------------:|:------------:|
 |      0       |       - - -       |  0 + 0 + 0   |
