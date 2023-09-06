@@ -7,9 +7,9 @@
 
 ---
 
-## 1. [[Reconnaissance]]
+## 1. [[Information Gathering]]
 
-The reconnaissance stage involves gathering information about the target system or network. It includes passive information gathering techniques such as searching publicly available information, browsing websites, and examining DNS records. The goal is to collect as much information as possible to understand the target and identify potential entry points.
+The information Gathering (Reconnaissance) stage involves gathering information about the target system or network. It includes passive information gathering techniques such as searching publicly available information, browsing websites, and examining DNS records. The goal is to collect as much information as possible to understand the target and identify potential entry points.
 
 ---
 
