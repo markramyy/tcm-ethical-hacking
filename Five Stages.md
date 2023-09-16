@@ -27,7 +27,7 @@ In this stage, the ethical hacker attempts to gain unauthorized access to the ta
 
 ## 4. [[Maintaining Access]]
 
-Once access is gained, the ethical hacker aims to maintain access to the compromised system or network. This stage involves bypassing security mechanisms, setting up backdoors or remote access tools, and establishing persistent access. The objective is to mimic the actions of a real attacker and assess the potential impact of a successful compromise.
+Once access is gained, the ethical hacker aims to maintain access to the compromised system or network. This stage involves bypassing security mechanisms, setting up #backdoors or remote access tools, and establishing persistent access. The objective is to mimic the actions of a real attacker and assess the potential impact of a successful compromise.
 
 ---
 

@@ -1,4 +1,0 @@
-# Enumeration SSH
-
----
-
